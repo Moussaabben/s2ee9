@@ -1,6 +1,6 @@
-# restaurant-app
+# s2ee9
 
-Desktop app for managing restaurants reservations
+A web application announcing an event
 
 ## Built With
 
